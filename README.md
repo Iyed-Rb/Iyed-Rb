@@ -13,20 +13,10 @@ I'm a computer science student currently finishing my first year. I'm passionate
 
 ### 👨‍💻 Programming Languages  
 - 🔹 **C++** – Console projects, logic building, and algorithm practice  
-- 🔹 **C#** – Desktop apps with Windows Forms (e.g., Math Game)
+- 🔹 **C#** – Desktop apps with Windows Forms  
 
 ### 🗃️ Databases  
 - 📌 Basic SQL – Designing simple databases and writing queries
-
----
-
-## 📂 Projects  
-I regularly update my GitHub with the projects I complete as I learn. Most of them are written in **C++** and **C#**, focusing on code clarity, logic, and structure.
-
-⚙️ **Examples**  
-- Math Game (C# WinForms)  
-- Rock-Paper-Scissors (C++)  
-- Bank System (C++)  
 
 ---
 
@@ -38,10 +28,10 @@ I regularly update my GitHub with the projects I complete as I learn. Most of th
 
 ---
 
-## 📌 Notes  
-I'm currently working on organizing my GitHub and learning how to present my work better.  
-Always open to feedback, ideas, and collaboration!
+## 🔧 Additional Notes  
+I love experimenting with new ideas and technologies, especially when they push me to think outside the box.  
+🚀 **Future Vision:** I am determined to become a Full Stack Web Developer and specialize in creating both front-end and back-end solutions.
 
 ---
 
-🌟 _Thanks for visiting my profile!_  
+🌟 _Thanks for visiting my profile!_
