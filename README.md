@@ -33,24 +33,23 @@ My journey is just beginning, and I’m excited to keep growing in the world of 
 
 ## 🚧 Under Development
 
-### [DVLD – Driving and Vehicle License Department System](https://github.com/Iyed-Rb/DVLD)
-
-A multi-layered Windows Forms system for managing driving licenses:
-- 3-tier architecture (DAL, BLL, UI)
-- ADO.NET with database integration
+• **[DVLD – Driving and Vehicle License Department System](https://github.com/Iyed-Rb/DVLD)**  
+A multi-layered Windows Forms system for managing driving licenses:  
+- 3-tier architecture (DAL, BLL, UI)  
+- ADO.NET with database integration  
 - Real-world workflows: test scheduling, license issuance, etc.
 
 ---
 
 ## Mini WinForms Applications
 
-### [Tic-Tac-Toe Game](https://github.com/Iyed-Rb/Tic-Tac-Toe)
+• **[Tic-Tac-Toe Game](https://github.com/Iyed-Rb/Tic-Tac-Toe)**  
 A two-mode game (vs player / vs computer) with validation and user-friendly interface.
 
-### [Math Game](https://github.com/Iyed-Rb/Math-Game)
+• **[Math Game](https://github.com/Iyed-Rb/Math-Game)**  
 A math quiz app with multiple levels, operations, and input types (MCQ and written).
 
-### [Simple Calculator](https://github.com/Iyed-Rb/Simple-WinForms-Calculator)
+• **[Simple Calculator](https://github.com/Iyed-Rb/Simple-WinForms-Calculator)**  
 A clean calculator with arithmetic operations, square, percentage, sign toggle, and single-operation logic.
 
 ---
