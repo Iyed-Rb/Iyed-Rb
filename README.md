@@ -21,15 +21,16 @@ My journey is just beginning, and I’m excited to keep growing in the world of 
 - **Basic SQL** – Writing queries and designing simple databases  
 - **File-based storage** – Managing data using text files
 
----
-
 ## 🎯 Goals
--  Learn full project architectures and database integration  
--  Contribute to real-world collaborative projects  
--  Grow into a full-stack web developer  
--  Keep improving through consistent self-learning
+
+- 🏗️ Learn full project architectures and database integration  
+- 🤝 Contribute to real-world collaborative projects  
+- 🚀 Grow into a full-stack web developer  
+- 📚 Keep improving through consistent self-learning
 
 ---
+
+## 💻 Projects
 
 ## 🚧 Under Development
 
@@ -38,8 +39,6 @@ A multi-layered Windows Forms system for managing driving licenses:
 - 3-tier architecture (DAL, BLL, UI)  
 - ADO.NET with database integration  
 - Real-world workflows: test scheduling, license issuance, etc.
-
----
 
 ## Mini WinForms Applications
 
@@ -51,8 +50,6 @@ A math quiz app with multiple levels, operations, and input types (MCQ and writt
 
 • **[Simple Calculator](https://github.com/Iyed-Rb/Simple-WinForms-Calculator)**  
 A clean calculator with arithmetic operations, square, percentage, sign toggle, and single-operation logic.
-
----
 
 ## Console Applications
 
