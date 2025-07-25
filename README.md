@@ -1,11 +1,7 @@
-👋 Hi there! I'm Iyed Rabia Cherif  
-🎓 Computer Science Student | 💡 Curious Learner | 💻 Future Software Developer
-
----
 
 ## 🧠 About Me
 
-I'm a computer science student currently finishing my first year. I’m passionate about programming, especially problem solving and building real-world applications. I love learning, experimenting, and transforming ideas into practical projects.
+I'm a computer science student. I’m passionate about programming, especially problem solving and building real-world applications. I love learning, experimenting, and transforming ideas into practical projects.
 
 My journey is just beginning, and I’m excited to keep growing in the world of software development.
 
@@ -21,26 +17,29 @@ My journey is just beginning, and I’m excited to keep growing in the world of 
 - **Basic SQL** – Writing queries and designing simple databases  
 - **File-based storage** – Managing data using text files
 
-## 🎯 Goals
+---
 
-- 🏗️ Learn full project architectures and database integration  
-- 🤝 Contribute to real-world collaborative projects  
-- 🚀 Grow into a full-stack web developer  
-- 📚 Keep improving through consistent self-learning
+## 🚀 What’s Next
+
+- Strengthen my problem-solving and algorithmic thinking through regular coding practice  
+- Strengthen my backend development skills, including server-side logic, API design, and relational databases  
+- Work on collaborative projects to improve communication, Git workflows, and team development  
 
 ---
 
 ## 💻 Projects
 
-## 🚧 Under Development
+### 🔑 Full Systems
 
 • **[DVLD – Driving and Vehicle License Department System](https://github.com/Iyed-Rb/DVLD)**  
-A multi-layered Windows Forms system for managing driving licenses:  
+A complete multi-layered C# Windows Forms system for managing driving licenses:  
 - 3-tier architecture (DAL, BLL, UI)  
-- ADO.NET with database integration  
-- Real-world workflows: test scheduling, license issuance, etc.
+- ADO.NET with SQL database integration  
+- Manages license testing, issuance, renewals, and workflows with admin control  
 
-## Mini WinForms Applications
+---
+
+### 🖼️ Mini WinForms Applications
 
 • **[Tic-Tac-Toe Game](https://github.com/Iyed-Rb/Tic-Tac-Toe)**  
 A two-mode game (vs player / vs computer) with validation and user-friendly interface.
@@ -51,7 +50,9 @@ A math quiz app with multiple levels, operations, and input types (MCQ and writt
 • **[Simple Calculator](https://github.com/Iyed-Rb/Simple-WinForms-Calculator)**  
 A clean calculator with arithmetic operations, square, percentage, sign toggle, and single-operation logic.
 
-## Console Applications
+---
+
+### 💬 Console Applications
 
 • **[Bank Console App](https://github.com/Iyed-Rb/Bank-Console-App)**  
 A C++ OOP-based app for managing clients, users, and transactions using file handling.  
