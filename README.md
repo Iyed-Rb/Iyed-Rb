@@ -1,29 +1,26 @@
-
 ## 🧠 About Me
 
-I'm a computer science student. I’m passionate about programming, especially problem solving and building real-world applications. I love learning, experimenting, and transforming ideas into practical projects.
-
-My journey is just beginning, and I’m excited to keep growing in the world of software development.
+Computer Science student passionate about programming, problem solving, and building real-world applications. Excited to grow and learn in software development.
 
 ---
 
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages
-- C++ – Algorithms, logic building, and console-based apps  
-- C# – Windows Forms apps with events, UI design, and logic separation
+- C++ — Algorithms, logic building, console apps  
+- C# — Windows Forms, UI design, event-driven programming
 
 ### 🗃️ Data Management
-- **Basic SQL** – Writing queries and designing simple databases  
-- **File-based storage** – Managing data using text files
+- Basic SQL — Queries and simple database design  
+- File-based storage — Data management with text files
 
 ---
 
 ## 🚀 What’s Next
 
-- Strengthen my problem-solving and algorithmic thinking through regular coding practice  
-- Strengthen my backend development skills, including server-side logic, API design, and relational databases  
-- Work on collaborative projects to improve communication, Git workflows, and team development  
+- Improve problem-solving and algorithms with regular practice  
+- Deepen backend skills: server logic, API design, relational databases  
+- Collaborate on projects to enhance teamwork, Git, and communication
 
 ---
 
@@ -32,39 +29,25 @@ My journey is just beginning, and I’m excited to keep growing in the world of 
 ### 🔑 Full Systems
 
 • **[DVLD – Driving and Vehicle License Department System](https://github.com/Iyed-Rb/DVLD)**  
-A complete multi-layered C# Windows Forms system for managing driving licenses:  
-- 3-tier architecture (DAL, BLL, UI)  
-- ADO.NET with SQL database integration  
-- Manages license testing, issuance, renewals, and workflows with admin control  
+Multi-layer C# WinForms app for managing driving licenses with SQL integration.
 
 ---
 
 ### 🖼️ Mini WinForms Applications
 
-• **[Tic-Tac-Toe Game](https://github.com/Iyed-Rb/Tic-Tac-Toe)**  
-A two-mode game (vs player / vs computer) with validation and user-friendly interface.
-
-• **[Math Game](https://github.com/Iyed-Rb/Math-Game)**  
-A math quiz app with multiple levels, operations, and input types (MCQ and written).
-
-• **[Simple Calculator](https://github.com/Iyed-Rb/Simple-WinForms-Calculator)**  
-A clean calculator with arithmetic operations, square, percentage, sign toggle, and single-operation logic.
+• **[Tic-Tac-Toe Game](https://github.com/Iyed-Rb/Tic-Tac-Toe)** — Player vs Player / AI with validation.  
+• **[Math Game](https://github.com/Iyed-Rb/Math-Game)** — Math quiz with levels, multiple operations, and input types.  
+• **[Simple Calculator](https://github.com/Iyed-Rb/Simple-WinForms-Calculator)** — Basic calculator with arithmetic and utility operations.
 
 ---
 
 ### 💬 Console Applications
 
-• **[Bank Console App](https://github.com/Iyed-Rb/Bank-Console-App)**  
-A C++ OOP-based app for managing clients, users, and transactions using file handling.  
-*Technologies: C++, OOP*
-
-• **[ATM Banking System](https://github.com/Iyed-Rb/ATM-Banking-System)**  
-Simulates an ATM with PIN login, balance check, deposits, and withdrawals.  
-*Technologies: C++, Conditional Logic*
+• **[Bank Console App](https://github.com/Iyed-Rb/Bank-Console-App)** — C++ OOP app for client and transaction management.  
+• **[ATM Banking System](https://github.com/Iyed-Rb/ATM-Banking-System)** — ATM simulation with PIN login, deposits, and withdrawals.
 
 ---
 
 ## 📌 Final Words
 
-I'm passionate about writing clean code, learning software architecture, and improving every project I build.  
-Thanks for visiting my profile — feel free to explore my repositories or connect for collaboration!
+I’m passionate about clean code, software architecture, and continuous improvement. Thanks for visiting — feel free to explore or connect!
