@@ -6,22 +6,11 @@
 
 ---
 
-## 👨‍💻 Programming Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)  
-
-## 🗃️ Data Management  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)  
-![File Storage](https://img.shields.io/badge/File%20Storage-4CAF50)  
-
----
-
-## 🚀 What’s Next
-
-- Improve problem-solving and algorithms with regular practice  
-- Deepen backend skills: server logic, API design, relational databases  
-- Collaborate on projects to enhance teamwork, Git, and communication  
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
