@@ -1,10 +1,3 @@
-<!-- Banner or GIF at the top -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
-</p>
-
----
-
 ## 🧠 About Me
 
 🎓 Computer Science student  
@@ -13,16 +6,14 @@
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 Programming Languages  
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)  
 
-### 👨‍💻 Programming Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-
-### 🗃️ Data Management  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
-![File Storage](https://img.shields.io/badge/File%20Storage-4CAF50)
+## 🗃️ Data Management  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)  
+![File Storage](https://img.shields.io/badge/File%20Storage-4CAF50)  
 
 ---
 
@@ -64,9 +55,13 @@ Multi-layer C# WinForms app for managing driving licenses with SQL integration.
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyed-rabia-cherif-3755432a4)  
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Iyed_rb/)  
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213551938590)  
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IyedRb)  
+
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabiaiyed743@gmail.com)  
 
 ---
